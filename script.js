@@ -1,4 +1,4 @@
-// Animasi bruh sederhana: fade-in pada project
+// Animasi bruh hehe sederhana: fade-in pada project
 document.addEventListener("DOMContentLoaded", () => {
   const projects = document.querySelectorAll(".project");
   projects.forEach((proj, i) => {
@@ -11,3 +11,4 @@ document.addEventListener("DOMContentLoaded", () => {
     }, i * 200);
   });
 });
+
